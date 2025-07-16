@@ -56,7 +56,7 @@ hospital-management-system/
 
 ### Frontend Setup (Swing)
 
-1. Open desktop-client project in IntelliJ or any Java IDE
+1. Open desktop-client project in any Java IDE
 2. Run `Main.java`
 
 ---
